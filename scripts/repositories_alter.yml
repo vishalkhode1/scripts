@@ -1,0 +1,4 @@
+drupal/config_ignore:
+  type: "vcs"
+  url: "https://git.drupalcode.org/issue/config_ignore-3286656.git"
+  canonical: true
